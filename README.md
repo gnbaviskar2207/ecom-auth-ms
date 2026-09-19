@@ -1,2 +1,2 @@
-# ecom-atuh-ms
+# ecom-auth-ms
 ecommerce auth micro service
